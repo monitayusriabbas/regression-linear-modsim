@@ -1,2 +1,4 @@
 # regression-linear-modsim
-regression linear tugas pemodelan dan simulasi
+Tugas pemodelan dan simulasi
+Data Visualization - Regresion Linear 
+Output : MSE, MAE, R2
