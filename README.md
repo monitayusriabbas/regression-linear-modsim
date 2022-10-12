@@ -1,4 +1,5 @@
 # regression-linear-modsim
-Tugas pemodelan dan simulasi
-Data Visualization - Regresion Linear 
+
+### Tugas Mata Kuliah Pemodelan dan Simulasi
+Data Visualization menggunakan Linear Regression
 Output : MSE, MAE, R2
